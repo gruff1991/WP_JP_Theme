@@ -69,7 +69,7 @@ function enqueue_styles_jobping(){
 		get_template_directory_uri() . '/css/jobping.css',
 		array(),
 		'0.0.1',
-		'all',
+		'all'
 	);
 }
 
